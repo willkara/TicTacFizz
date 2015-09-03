@@ -21,7 +21,6 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.willkara.tictacfizz.java;
 
 /**
  * A simple FizzBuzz implementation counting from 0-1000.
